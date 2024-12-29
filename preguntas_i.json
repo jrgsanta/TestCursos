@@ -1,0 +1,422 @@
+{
+    "English Test": [
+      {
+        "numero_pregunta": 1,
+        "enunciado": "Which of the following prepositions is used to indicate a location inside a continent, country, city, park, garden, building, or room?",
+        "opciones": {
+          "a": "in",
+          "b": "to",
+          "c": "on",
+          "d": "of"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 2,
+        "enunciado": "Which of the following prepositions is used to indicate the position of something on a surface such as a wall, the floor, or the ceiling?",
+        "opciones": {
+          "a": "in",
+          "b": "to",
+          "c": "on",
+          "d": "of"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 3,
+        "enunciado": "If I want to say I left my backpack in the plane, which preposition would I use?",
+        "opciones": {
+          "a": "in",
+          "b": "to",
+          "c": "on",
+          "d": "of"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 4,
+        "enunciado": "Which preposition is used to talk about a movement that involves getting out of a public transportation vehicle?",
+        "opciones": {
+          "a": "in",
+          "b": "to",
+          "c": "on",
+          "d": "out of"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 5,
+        "enunciado": "If I want to say I saw Mike at the party, which preposition should I use?",
+        "opciones": {
+          "a": "in",
+          "b": "to",
+          "c": "on",
+          "d": "of"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 6,
+        "enunciado": "Which demonstrative pronoun is used to refer to something that is near?",
+        "opciones": {
+          "a": "this",
+          "b": "that",
+          "c": "these",
+          "d": "those"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 7,
+        "enunciado": "Which demonstrative pronoun is used to refer to something that is far?",
+        "opciones": {
+          "a": "this",
+          "b": "that",
+          "c": "these",
+          "d": "those"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 8,
+        "enunciado": "What is the correct structure of the Present Simple in English?",
+        "opciones": {
+          "a": "Subject + verb + -s (for all persons)",
+          "b": "Subject + verb + -ing",
+          "c": "Subject + base verb + -s (only in 3rd person singular)",
+          "d": "Subject + 'to be' + verb + -ing"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 9,
+        "enunciado": "How do we form the negative in the Present Simple?",
+        "opciones": {
+          "a": "Subject + 'don't' / 'doesn't' + base verb",
+          "b": "Subject + 'not' + verb",
+          "c": "Subject + 'to be' + 'not' + verb + -ing",
+          "d": "'Don't' / 'Doesn't' + subject + verb"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 10,
+        "enunciado": "Which of the following is NOT an adverb of frequency?",
+        "opciones": {
+          "a": "always",
+          "b": "sometimes",
+          "c": "today",
+          "d": "never"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 11,
+        "enunciado": "What is the correct translation of 'I go to the park once or twice a week'?",
+        "opciones": {
+          "a": "I go to the park once a week.",
+          "b": "I go to the park twice a week.",
+          "c": "I go to the park once or twice a week.",
+          "d": "I never go to the park."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 12,
+        "enunciado": "What is the correct structure of the Present Continuous in English?",
+        "opciones": {
+          "a": "Subject + verb + -ing",
+          "b": "Subject + 'to be' + verb + -ing",
+          "c": "Subject + 'don't' / 'doesn't' + verb + -ing",
+          "d": "Subject + base verb"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 13,
+        "enunciado": "Which of the following is NOT an indicator of the Present Continuous tense?",
+        "opciones": {
+          "a": "now",
+          "b": "yesterday",
+          "c": "at the moment",
+          "d": "Look!"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 14,
+        "enunciado": "What is the Past Simple tense used for?",
+        "opciones": {
+          "a": "To talk about actions happening right now.",
+          "b": "To talk about habitual actions or routines.",
+          "c": "To talk about actions that happened in the past and are finished.",
+          "d": "To talk about future plans."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 15,
+        "enunciado": "What is the Past Simple form of the verb 'study'?",
+        "opciones": {
+          "a": "studied",
+          "b": "studying",
+          "c": "studyed",
+          "d": "studyd"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 16,
+        "enunciado": "What is the Past Simple form of the irregular verb 'go'?",
+        "opciones": {
+          "a": "goed",
+          "b": "went",
+          "c": "gone",
+          "d": "going"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 17,
+        "enunciado": "How do we form the negative in the Past Simple?",
+        "opciones": {
+          "a": "Subject + 'didn't' + verb (in past simple)",
+          "b": "Subject + 'didn't' + base verb",
+          "c": "Subject + 'not' + verb (in past simple)",
+          "d": "'Didn't' + subject + verb (in past simple)"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 18,
+        "enunciado": "What is the correct structure for a question in the Past Simple?",
+        "opciones": {
+          "a": "'Did' + subject + verb (in past)?",
+          "b": "'Did' + subject + base verb?",
+          "c": "Subject + 'did' + verb (in past)?",
+          "d": "Subject + 'didn't' + base verb?"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 19,
+        "enunciado": "Which verb form is used for spontaneous decisions in the future?",
+        "opciones": {
+          "a": "will",
+          "b": "going to",
+          "c": "present simple",
+          "d": "present continuous"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 20,
+        "enunciado": "Which verb form is used to express future plans or intentions?",
+        "opciones": {
+          "a": "will",
+          "b": "going to",
+          "c": "present simple",
+          "d": "present continuous"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 21,
+        "enunciado": "What is the difference between 'journey' and 'trip'?",
+        "opciones": {
+          "a": "'Journey' refers to a short trip, and 'trip' refers to a long one.",
+          "b": "'Journey' is used for round trips, while 'trip' is only one-way.",
+          "c": "'Journey' focuses on the process of traveling, while 'trip' focuses on the destination.",
+          "d": "There is no difference; both words mean the same."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 22,
+        "enunciado": "Which of the following is NOT a synonym for 'to die'?",
+        "opciones": {
+          "a": "pass away",
+          "b": "perish",
+          "c": "be born",
+          "d": "decease"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 23,
+        "enunciado": "What does 'stepmother' mean?",
+        "opciones": {
+          "a": "Your father's mother",
+          "b": "Your father's wife who is not your biological mother",
+          "c": "Your mother's sister",
+          "d": "Your father's grandmother"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 24,
+        "enunciado": "What does 'sister-in-law' mean?",
+        "opciones": {
+          "a": "Your brother's wife",
+          "b": "Your husband's sister",
+          "c": "Your husband's mother",
+          "d": "Your brother's daughter"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 25,
+        "enunciado": "What does the expression 'to get stuck' mean?",
+        "opciones": {
+          "a": "To be extremely tired",
+          "b": "To be unable to move or progress",
+          "c": "To have a lot of work",
+          "d": "To be bored"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 26,
+        "enunciado": "What does the expression 'in a hurry' mean?",
+        "opciones": {
+          "a": "Having plenty of free time",
+          "b": "Being pressed for time",
+          "c": "Having a lot of energy",
+          "d": "Being relaxed"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 27,
+        "enunciado": "What does 'crime rate' mean?",
+        "opciones": {
+          "a": "The number of people living in a city",
+          "b": "The number of offenses committed in a specific place",
+          "c": "The amount of money spent on security",
+          "d": "The number of police officers in an area"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 28,
+        "enunciado": "Which of the following is NOT a characteristic of an informal text?",
+        "opciones": {
+          "a": "Use of contractions",
+          "b": "Use of technical language",
+          "c": "Use of phrasal verbs",
+          "d": "Use of slang"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 29,
+        "enunciado": "What does 'countable noun' mean?",
+        "opciones": {
+          "a": "A noun that cannot be counted",
+          "b": "A noun that can be counted",
+          "c": "A verb in the past tense",
+          "d": "An adjective"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 30,
+        "enunciado": "Which of the following words is an 'uncountable noun'?",
+        "opciones": {
+          "a": "apple",
+          "b": "book",
+          "c": "water",
+          "d": "table"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 31,
+        "enunciado": "Which expression is used to talk about large quantities, both with countable and uncountable nouns?",
+        "opciones": {
+          "a": "a little",
+          "b": "a few",
+          "c": "a lot of",
+          "d": "much"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 32,
+        "enunciado": "What is 'a few' used for?",
+        "opciones": {
+          "a": "To talk about a very small quantity",
+          "b": "To talk about a large quantity",
+          "c": "To talk about a sufficient quantity",
+          "d": "To talk about no quantity at all"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 33,
+        "enunciado": "What is the difference between 'few' and 'very little'?",
+        "opciones": {
+          "a": "'Few' is used with countable nouns, and 'very little' is used with uncountable nouns.",
+          "b": "'Few' indicates a sufficient amount, and 'very little' indicates an insufficient amount.",
+          "c": "'Few' is used in affirmative sentences, and 'very little' in negative ones.",
+          "d": "There is no difference; both mean the same."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 34,
+        "enunciado": "What is the Present Simple tense used for?",
+        "opciones": {
+          "a": "Talking about actions happening right now.",
+          "b": "Talking about actions that happened in the past.",
+          "c": "Talking about habitual actions or routines.",
+          "d": "Talking about future plans."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 35,
+        "enunciado": "What does the expression 'despertarse' mean?",
+        "opciones": {
+          "a": "to wake up",
+          "b": "to get up",
+          "c": "to get dressed",
+          "d": "to take a shower"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 36,
+        "enunciado": "What does the expression 'vestirse' mean?",
+        "opciones": {
+          "a": "to wake up",
+          "b": "to get up",
+          "c": "to get dressed",
+          "d": "to take a shower"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 37,
+        "enunciado": "What does the expression 'cenar' mean?",
+        "opciones": {
+          "a": "to have breakfast",
+          "b": "to have lunch",
+          "c": "to have a snack",
+          "d": "to have dinner"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 38,
+        "enunciado": "What does the expression 'ir a dormir' mean?",
+        "opciones": {
+          "a": "to go to bed",
+          "b": "to fall asleep",
+          "c": "to get up",
+          "d": "to take a shower"
+        },
+        "respuesta_correcta": "a"
+      }
+    ]
+  }

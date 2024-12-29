@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tests de Estudios</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Tests de Estudios</h1>
+  <h2>Selecciona el curso y el número de preguntas antes de pulsar en Comenzar ... </h2>
+
+  <!-- Sección para seleccionar el número de preguntas y el curso -->
+  <div id="inicio">
+    <!-- Combo para seleccionar el curso -->
+    <label for="cursoSelect">Selecciona el curso:</label>
+    <select id="cursoSelect">
+      <option value="preguntas_hs">Habilidades Sociales</option>
+      <option value="preguntas_a">Autonomia</option>
+      <option value="preguntas_pa">Primeros Auxilios</option>
+      <option value="preguntas_i">Ingles</option>
+      <option value="preguntas_d">Digitalización</option>
+      <!-- Añade más opciones según necesites -->
+    </select>
+
+    <br><br>
+
+    <!-- Combo para seleccionar el número de preguntas -->
+    <label for="numPreguntas">Selecciona el número de preguntas:</label>
+    <select id="numPreguntas">
+      <option value="10">10</option>
+      <option value="15">15</option>
+      <option value="20">20</option>
+    </select>
+    <button id="btnComenzar">Comenzar</button>
+    <br>
+    <!-- Botón de VER RESUMEN -->
+    <button id="btnResumen">Ver Resumen</button>
+
+    <!-- Botón para escuchar audio -->
+    <button id="btnAudio">Escuchar Audio</button>
+  </div>
+
+  <!-- Sección donde se mostrarán las preguntas -->
+  <div id="testContainer" class="oculto">
+    <div id="preguntaContainer"></div>
+    <button id="btnSiguiente">Siguiente</button>
+    <button id="btnReiniciarDuranteTest">Volver al inicio</button>
+  </div>
+
+  <!-- Sección para mostrar resultados finales -->
+  <div id="resultadoContainer" class="oculto">
+    <h2>Resultados</h2>
+    <p id="puntuacion"></p>
+    <div id="errores"></div>
+    <button id="btnReiniciar">Reiniciar</button>
+    
+  </div>
+
+   <!-- Modal para mostrar el resumen en MD convertido a HTML -->
+   <div id="modalResumen" class="modal">
+    <div class="modal-contenido">
+      <span id="modalCerrar" class="modal-cerrar">&times;</span>
+      <div id="resumenContent">Cargando resumen...</div>
+    </div>
+  </div>
+
+  <!-- Librería para convertir Markdown a HTML (puedes usar Marked o Showdown) -->
+  <!-- Ejemplo con marked: descarga https://cdn.jsdelivr.net/npm/marked/marked.min.js -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- Scripts de la página -->
+  <script src="script.js"></script>
+</body>
+</html>

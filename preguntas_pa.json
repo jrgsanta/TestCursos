@@ -1,0 +1,445 @@
+{
+    "Primeros Auxilios": [
+      {
+        "numero_pregunta": 1,
+        "enunciado": "¿Qué significa el acrónimo PAS en primeros auxilios?",
+        "opciones": {
+          "a": "Proteger, Avisar, Socorrer",
+          "b": "Prevenir, Atender, Salvar",
+          "c": "Priorizar, Actuar, Solucionar",
+          "d": "Prestar, Auxiliar, Sanar"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 2,
+        "enunciado": "¿Cuál de las siguientes NO es una constante vital?",
+        "opciones": {
+          "a": "Temperatura corporal",
+          "b": "Frecuencia respiratoria",
+          "c": "Dolor",
+          "d": "Presión arterial"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 3,
+        "enunciado": "¿Qué rango de temperatura corporal se considera normal en un adulto sano?",
+        "opciones": {
+          "a": "35-36 ºC",
+          "b": "36-37 ºC",
+          "c": "37-38 ºC",
+          "d": "38-39 ºC"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 4,
+        "enunciado": "¿Qué es la presión arterial diastólica?",
+        "opciones": {
+          "a": "La presión arterial máxima durante la contracción del corazón",
+          "b": "La presión arterial mínima cuando el corazón se relaja",
+          "c": "La presión arterial media durante un ciclo cardíaco",
+          "d": "La presión arterial en las venas"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 5,
+        "enunciado": "¿Cuál de los siguientes valores de presión arterial se considera hipertensión en un adulto?",
+        "opciones": {
+          "a": "120/80 mmHg",
+          "b": "130/85 mmHg",
+          "c": "140/90 mmHg",
+          "d": "110/70 mmHg"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 6,
+        "enunciado": "¿Cuál es la frecuencia respiratoria normal en un adulto?",
+        "opciones": {
+          "a": "6-10 respiraciones por minuto",
+          "b": "12-20 respiraciones por minuto",
+          "c": "20-30 respiraciones por minuto",
+          "d": "30-40 respiraciones por minuto"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 7,
+        "enunciado": "¿Qué término se utiliza para describir una frecuencia respiratoria superior a la normal?",
+        "opciones": {
+          "a": "Bradipnea",
+          "b": "Taquipnea",
+          "c": "Apnea",
+          "d": "Eupnea"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 8,
+        "enunciado": "¿Cuál es la frecuencia cardíaca normal en un adulto?",
+        "opciones": {
+          "a": "20-40 latidos por minuto",
+          "b": "40-60 latidos por minuto",
+          "c": "60-100 latidos por minuto",
+          "d": "100-120 latidos por minuto"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 9,
+        "enunciado": "¿Dónde se debe tomar el pulso en una persona inconsciente?",
+        "opciones": {
+          "a": "Arteria radial",
+          "b": "Arteria braquial",
+          "c": "Arteria carótida",
+          "d": "Arteria femoral"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 10,
+        "enunciado": "¿Qué es la saturación de oxígeno?",
+        "opciones": {
+          "a": "La cantidad de oxígeno en el aire inhalado",
+          "b": "La cantidad de oxígeno en los pulmones",
+          "c": "El porcentaje de hemoglobina en la sangre que está saturada con oxígeno",
+          "d": "La cantidad de dióxido de carbono en la sangre"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 11,
+        "enunciado": "¿Qué dispositivo se utiliza para medir la saturación de oxígeno?",
+        "opciones": {
+          "a": "Termómetro",
+          "b": "Esfigmomanómetro",
+          "c": "Fonendoscopio",
+          "d": "Pulsioxímetro"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 12,
+        "enunciado": "¿Qué es la glucemia?",
+        "opciones": {
+          "a": "La cantidad de insulina en la sangre",
+          "b": "La cantidad de glucosa en la sangre",
+          "c": "La cantidad de proteínas en la sangre",
+          "d": "La cantidad de lípidos en la sangre"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 13,
+        "enunciado": "¿Cuáles son los valores normales de glucemia en ayunas?",
+        "opciones": {
+          "a": "Menos de 60 mg/dL",
+          "b": "Entre 60 y 100 mg/dL",
+          "c": "Entre 100 y 140 mg/dL",
+          "d": "Más de 140 mg/dL"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 14,
+        "enunciado": "¿Cuál de los siguientes pasos NO es parte del procedimiento para realizar una llamada al servicio de emergencias?",
+        "opciones": {
+          "a": "Mantener la calma",
+          "b": "Identificar la emergencia",
+          "c": "Colgar inmediatamente después de proporcionar la información",
+          "d": "Seguir las instrucciones del operador"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 15,
+        "enunciado": "¿Cuál es el primer paso en la cadena de supervivencia?",
+        "opciones": {
+          "a": "Reconocimiento precoz y llamada a los servicios de emergencia",
+          "b": "Reanimación cardiopulmonar (RCP) precoz",
+          "c": "Desfibrilación precoz",
+          "d": "Soporte vital avanzado precoz"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 16,
+        "enunciado": "¿Cuál es la relación de compresiones torácicas a ventilaciones en la RCP para adultos?",
+        "opciones": {
+          "a": "15:2",
+          "b": "30:2",
+          "c": "5:1",
+          "d": "10:2"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 17,
+        "enunciado": "¿Qué profundidad se debe comprimir el pecho durante las compresiones torácicas en un adulto?",
+        "opciones": {
+          "a": "2-3 cm",
+          "b": "5-6 cm",
+          "c": "8-10 cm",
+          "d": "10-12 cm"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 18,
+        "enunciado": "¿Qué es un DEA?",
+        "opciones": {
+          "a": "Dispositivo de evaluación de accidentes",
+          "b": "Desfibrilador externo automático",
+          "c": "Detector de emergencias avanzadas",
+          "d": "Dispositivo de estabilización arterial"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 19,
+        "enunciado": "¿Cuál es la diferencia entre un DEA y un DESA?",
+        "opciones": {
+          "a": "Un DEA analiza el ritmo cardíaco y administra la descarga automáticamente, mientras que un DESA requiere que el rescatador presione un botón para administrar la descarga",
+          "b": "Un DEA es para uso en adultos, mientras que un DESA es para uso en niños",
+          "c": "Un DEA es más potente que un DESA",
+          "d": "No hay diferencia entre un DEA y un DESA"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 20,
+        "enunciado": "¿Para qué se utiliza la posición lateral de seguridad?",
+        "opciones": {
+          "a": "Para inmovilizar una fractura",
+          "b": "Para controlar una hemorragia",
+          "c": "Para mantener despejada la vía respiratoria de una persona inconsciente",
+          "d": "Para tratar una quemadura"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 21,
+        "enunciado": "¿En qué situaciones se deben aplicar los primeros auxilios?",
+        "opciones": {
+          "a": "Solo cuando la vida de la víctima está en peligro",
+          "b": "Solo cuando hay una lesión grave",
+          "c": "Cuando se espera que la actuación del socorrista mejore el pronóstico de la víctima",
+          "d": "Solo cuando el socorrista está capacitado para tratar la lesión específica"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 22,
+        "enunciado": "¿Qué es el Sistema Nacional de Salud (SNS)?",
+        "opciones": {
+          "a": "Un sistema de seguro de salud privado",
+          "b": "Un sistema de salud universal financiado con fondos públicos",
+          "c": "Un sistema de salud solo para emergencias",
+          "d": "Un sistema de salud solo para personas mayores"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 23,
+        "enunciado": "¿Cuál es el primer nivel de atención en el sistema sanitario español?",
+        "opciones": {
+          "a": "Atención primaria",
+          "b": "Atención especializada",
+          "c": "Atención hospitalaria",
+          "d": "Atención de urgencias"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 24,
+        "enunciado": "¿Qué se debe hacer en la fase de \"proteger\" del protocolo PAS?",
+        "opciones": {
+          "a": "Comprobar la respiración de la víctima",
+          "b": "Llamar a los servicios de emergencia",
+          "c": "Asegurar la seguridad del lugar del accidente y de la víctima",
+          "d": "Realizar la valoración secundaria de la víctima"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 25,
+        "enunciado": "¿Qué información es importante proporcionar al llamar a los servicios de emergencia?",
+        "opciones": {
+          "a": "Lugar del accidente",
+          "b": "Número de víctimas",
+          "c": "Estado de las víctimas",
+          "d": "Todas las anteriores"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 26,
+        "enunciado": "¿Cuál es la diferencia entre la evaluación de emergencia y la evaluación urgente?",
+        "opciones": {
+          "a": "La evaluación de emergencia se realiza para determinar si la vida de la víctima está en peligro inmediato, mientras que la evaluación urgente se realiza después de la evaluación de emergencia para obtener más detalles sobre las lesiones",
+          "b": "La evaluación de emergencia la realiza el personal médico, mientras que la evaluación urgente la realiza el socorrista",
+          "c": "La evaluación de emergencia se realiza solo en adultos, mientras que la evaluación urgente se realiza en niños y adultos",
+          "d": "No hay diferencia entre la evaluación de emergencia y la evaluación urgente"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 27,
+        "enunciado": "¿Qué elementos de protección personal son importantes para un socorrista?",
+        "opciones": {
+          "a": "Guantes",
+          "b": "Mascarilla",
+          "c": "Gafas protectoras",
+          "d": "Todas las anteriores"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 28,
+        "enunciado": "¿Cuándo se debe mover a una víctima de un accidente?",
+        "opciones": {
+          "a": "Siempre que sea posible para facilitar la atención",
+          "b": "Solo si es absolutamente necesario para protegerla de un peligro mayor",
+          "c": "Solo si el socorrista está seguro de que no hay lesiones de columna",
+          "d": "Solo si la víctima está consciente y da su consentimiento"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 29,
+        "enunciado": "¿Qué se debe hacer si una persona inconsciente respira normalmente?",
+        "opciones": {
+          "a": "Colocarla en posición lateral de seguridad",
+          "b": "Iniciar la RCP",
+          "c": "Administrarle líquidos por vía oral",
+          "d": "Moverla a un lugar más cómodo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 30,
+        "enunciado": "¿Qué es un  torniquete?",
+        "opciones": {
+          "a": "Un vendaje para cubrir una herida",
+          "b": "Un dispositivo para detener una hemorragia grave",
+          "c": "Un medicamento para el dolor",
+          "d": "Un antiséptico para limpiar heridas"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 31,
+        "enunciado": "¿Qué NO se recomienda incluir en un botiquín de primeros auxilios?",
+        "opciones": {
+          "a": "Gasas estériles",
+          "b": "Vendas",
+          "c": "Tijeras",
+          "d": "Algodón"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 32,
+        "enunciado": "¿Qué significa la tarjeta roja en el triaje de emergencias múltiples?",
+        "opciones": {
+          "a": "Prioridad máxima: atención inmediata y traslado urgente",
+          "b": "Prioridad intermedia: atención urgente, pero puede esperar un tiempo limitado",
+          "c": "Prioridad mínima: atención no urgente",
+          "d": "Fallecido"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 33,
+        "enunciado": "¿Qué es la maniobra de Heimlich?",
+        "opciones": {
+          "a": "Una técnica para abrir la vía aérea",
+          "b": "Una técnica para detener una hemorragia",
+          "c": "Una técnica para desobstruir la vía aérea en caso de atragantamiento",
+          "d": "Una técnica para inmovilizar una fractura"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 34,
+        "enunciado": "¿Qué se debe hacer primero si se sospecha que un lactante se está atragantando?",
+        "opciones": {
+          "a": "Realizar compresiones abdominales",
+          "b": "Darle palmaditas en la espalda",
+          "c": "Llamar a los servicios de emergencia",
+          "d": "Intentar extraer el objeto con los dedos"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 35,
+        "enunciado": "¿Qué se debe hacer si un adulto se desmaya?",
+        "opciones": {
+          "a": "Sentarlo en una silla",
+          "b": "Tumbarlo boca arriba y elevar sus piernas",
+          "c": "Darle palmaditas en la cara",
+          "d": "Administrarle líquidos por vía oral"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 36,
+        "enunciado": "¿Cuál es la principal causa de muerte en accidentes de tráfico?",
+        "opciones": {
+          "a": "Hemorragias",
+          "b": "Traumatismos craneoencefálicos",
+          "c": "Fracturas",
+          "d": "Asfixia"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 37,
+        "enunciado": "¿Qué se debe hacer en caso de una quemadura leve?",
+        "opciones": {
+          "a": "Aplicar hielo directamente sobre la quemadura",
+          "b": "Aplicar mantequilla o aceite sobre la quemadura",
+          "c": "Enfriar la quemadura con agua fría durante al menos 10 minutos",
+          "d": "Reventar las ampollas que se formen"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 38,
+        "enunciado": "¿Qué se debe hacer en caso de una fractura?",
+        "opciones": {
+          "a": "Intentar realinear el hueso fracturado",
+          "b": "Mover a la víctima a un lugar más cómodo",
+          "c": "Inmovilizar la fractura con un cabestrillo o férula",
+          "d": "Administrar analgésicos"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 39,
+        "enunciado": "¿Qué es la hipotermia?",
+        "opciones": {
+          "a": "Un aumento de la temperatura corporal por encima de lo normal",
+          "b": "Una disminución de la temperatura corporal por debajo de lo normal",
+          "c": "Una frecuencia cardíaca rápida",
+          "d": "Una frecuencia respiratoria lenta"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 40,
+        "enunciado": "¿Qué se debe hacer si se sospecha que una persona tiene hipotermia?",
+        "opciones": {
+          "a": "Darle bebidas calientes",
+          "b": "Frotarle la piel para calentarla",
+          "c": "Llevarla a un lugar cálido y abrigarla",
+          "d": "Darle un baño caliente"
+        },
+        "respuesta_correcta": "c"
+      }
+    ]
+  }
+  

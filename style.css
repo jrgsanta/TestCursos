@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  h1, h2  {
+    text-align: center;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  #inicio, #testContainer, #resultadoContainer {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .oculto {
+    display: none;
+  }
+  
+  #preguntaContainer {
+    margin-bottom: 20px;
+  }
+  
+  #preguntaContainer h3 {
+    margin-bottom: 10px;
+  }
+  
+  .opcion {
+    margin: 5px 0;
+  }
+  
+  #btnSiguiente, #btnComenzar, #btnReiniciar, #btnReiniciarDuranteTest,  #btnResumen, #btnAudio {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    margin: 5px;
+  }
+  
+  #btnSiguiente:hover,
+  #btnComenzar:hover,
+  #btnReiniciar:hover,
+  #btnReiniciarDuranteTest,
+  #btnResumen:hover,
+  #btnAudio:hover {
+    background-color: #0056b3;
+  }
+
+/* Estilos para el modal del resumen */
+.modal {
+    display: none; /* Por defecto oculto */
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4); /* Sombra */
+  }
+  
+  .modal-contenido {
+    background-color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+    position: relative;
+    border-radius: 6px;
+  }
+  
+  .modal-cerrar {
+    color: #aaa;
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+  }
+  
+  .modal-cerrar:hover {
+    color: #000;
+  }

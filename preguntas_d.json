@@ -1,0 +1,554 @@
+{
+  "Digitalización - Examen": [
+    {
+      "numero_pregunta": 1,
+      "enunciado": "¿Qué es la digitalización?",
+      "opciones": {
+        "A": "Convertir información y procesos a formato digital para mejorar la eficiencia y la competitividad.",
+        "B": "El uso de ordenadores y dispositivos móviles.",
+        "C": "La creación de software y aplicaciones.",
+        "D": "La conexión a internet."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 2,
+      "enunciado": "¿Cuáles son algunos de los beneficios de la digitalización?",
+      "opciones": {
+        "A": "Solo mayor eficiencia.",
+        "B": "Mayor eficiencia, personalización, toma de decisiones basada en datos, innovación.",
+        "C": "Solo innovación.",
+        "D": "Solo personalización."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero_pregunta": 3,
+      "enunciado": "¿Cuáles son algunos desafíos de la digitalización?",
+      "opciones": {
+        "A": "Solo inversión.",
+        "B": "Solo ciberseguridad.",
+        "C": "Inversión, resistencia al cambio, ciberseguridad.",
+        "D": "Solo resistencia al cambio."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 4,
+      "enunciado": "¿Qué significa digitalizar un libro?",
+      "opciones": {
+        "A": "Leer el libro en voz alta y grabarlo.",
+        "B": "Resumir el libro en un documento digital.",
+        "C": "Traducir el libro a otro idioma.",
+        "D": "Escanear cada página y guardar las imágenes en un ordenador."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 5,
+      "enunciado": "¿Por qué es importante la digitalización?",
+      "opciones": {
+        "A": "Mayor acceso a la información, conservación, innovación, comunicación.",
+        "B": "Solo mayor acceso a la información.",
+        "C": "Solo conservación.",
+        "D": "Solo innovación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 6,
+      "enunciado": "¿Qué son los datos en el contexto de la digitalización?",
+      "opciones": {
+        "A": "Dispositivos físicos como ordenadores.",
+        "B": "Información convertida a formato digital.",
+        "C": "Programas que permiten usar datos digitales.",
+        "D": "Una red global que conecta ordenadores."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero_pregunta": 7,
+      "enunciado": "¿Qué es un archivo o fichero?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Un conjunto de datos organizados y almacenados en un dispositivo digital.",
+        "D": "Una red global que conecta ordenadores."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 8,
+      "enunciado": "¿Qué es el software?",
+      "opciones": {
+        "A": "Dispositivos físicos como ordenadores.",
+        "B": "Información convertida a formato digital.",
+        "C": "Una red global que conecta ordenadores.",
+        "D": "Programas que permiten utilizar y manipular datos digitales."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 9,
+      "enunciado": "¿Qué es el hardware?",
+      "opciones": {
+        "A": "Dispositivos físicos como ordenadores, teléfonos móviles y tabletas.",
+        "B": "Programas que permiten usar datos digitales.",
+        "C": "Información convertida a formato digital.",
+        "D": "Una red global que conecta ordenadores."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 10,
+      "enunciado": "¿Qué es internet?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Una red global que conecta ordenadores y permite compartir información.",
+        "C": "Un dispositivo físico como un ordenador.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero_pregunta": 11,
+      "enunciado": "¿Qué es la nube?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Un sistema de almacenamiento de datos en servidores remotos al que se puede acceder desde cualquier lugar con conexión a internet.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 12,
+      "enunciado": "¿Qué es un algoritmo?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Un conjunto de instrucciones que un ordenador sigue para realizar una tarea."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 13,
+      "enunciado": "¿Qué es la inteligencia artificial?",
+      "opciones": {
+        "A": "La capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana.",
+        "B": "Un programa que permite usar datos digitales.",
+        "C": "Un dispositivo físico como un ordenador.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 14,
+      "enunciado": "¿Qué es la ciberseguridad?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Protección de sistemas y datos contra ataques.",
+        "C": "Un dispositivo físico como un ordenador.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero_pregunta": 15,
+      "enunciado": "¿Qué es el Big Data?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Grandes volúmenes de datos que se analizan para encontrar patrones."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 16,
+      "enunciado": "¿Qué es el Internet de las cosas (IoT)?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Conexión de objetos cotidianos a internet."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 17,
+      "enunciado": "¿Qué es la realidad virtual (RV)?",
+      "opciones": {
+        "A": "Experiencia inmersiva en un mundo generado por computadora.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Un programa que permite usar datos digitales.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 18,
+      "enunciado": "¿Qué es la realidad aumentada (RA)?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Superposición de elementos digitales sobre el mundo real.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 19,
+      "enunciado": "¿Qué es Blockchain?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Tecnología que registra transacciones de forma segura y transparente."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 20,
+      "enunciado": "¿Qué es el Machine Learning?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Subconjunto de la IA que permite a las máquinas aprender de los datos."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 21,
+      "enunciado": "¿Qué es el Deep Learning?",
+      "opciones": {
+        "A": "Tipo de Machine Learning que utiliza redes neuronales artificiales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Un programa que permite usar datos digitales."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 22,
+      "enunciado": "¿Qué es la robótica?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Diseño y construcción de robots."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 23,
+      "enunciado": "¿Qué es la automatización?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Uso de tecnologías para realizar tareas repetitivas."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 24,
+      "enunciado": "¿Qué es la impresión 3D?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Crear objetos físicos a partir de un diseño digital."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 25,
+      "enunciado": "¿Qué es la biotecnología?",
+      "opciones": {
+        "A": "Uso de organismos vivos para desarrollar tecnologías.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Un programa que permite usar datos digitales."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "numero_pregunta": 26,
+      "enunciado": "¿Qué es la nanotecnología?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Uso de organismos vivos para desarrollar tecnologías.",
+        "C": "Información convertida a formato digital.",
+        "D": "Manipulación de la materia a escala nanométrica."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero_pregunta": 27,
+      "enunciado": "¿Qué es el metaverso?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Un universo virtual compartido donde las personas pueden interactuar como avatares.",
+        "D": "Información convertida a formato digital."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 28,
+      "enunciado": "¿Qué es el Cloud Computing?",
+      "opciones": {
+        "A": "Un programa que permite usar datos digitales.",
+        "B": "Un dispositivo físico como un ordenador.",
+        "C": "Información convertida a formato digital.",
+        "D": "Un espacio en internet donde se puede almacenar información y usar programas sin necesidad de una computadora potente."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 29,
+      "enunciado": "¿Qué significa IT?",
+      "opciones": {
+        "A": "Internet de las cosas.",
+        "B": "Impresión 3D.",
+        "C": "Inteligencia artificial.",
+        "D": "Tecnología de la Información."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 30,
+      "enunciado": "¿Qué significa OT?",
+      "opciones": {
+        "A": "Ordenador Táctil.",
+        "B": "Objeto Tecnológico.",
+        "C": "Tecnología Operativa.",
+        "D": "Optimización de Tráfico."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 31,
+      "enunciado": "¿Cuál de los siguientes es un ejemplo de digitalización en la vida diaria?",
+      "opciones": {
+        "A": "Comprar un disco de vinilo.",
+        "B": "Leer un libro físico.",
+        "C": "Escuchar música en Spotify.",
+        "D": "Ver una película en VHS."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero_pregunta": 32,
+      "enunciado": "¿Cómo ha impactado la digitalización en los videojuegos?",
+      "opciones": {
+        "A": "Ha limitado la creatividad en el diseño de videojuegos.",
+        "B": "Ha hecho que los videojuegos sean menos populares.",
+        "C": "Ha reducido la calidad gráfica de los videojuegos.",
+        "D": "Ha permitido la creación de juegos en línea con gráficos realistas y mundos virtuales inmensos."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 33,
+      "enunciado": "¿Cuál de las siguientes es una ventaja de los libros electrónicos?",
+      "opciones": {
+        "A": "Tienen un olor a papel característico.",
+        "B": "Son más difíciles de compartir.",
+        "C": "Son más caros que los libros físicos.",
+        "D": "Son más ligeros y fáciles de transportar."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 34,
+      "enunciado": "¿Cómo se puede usar la nube de manera exitosa en una empresa?",
+      "opciones": {
+        "A": "Solo para almacenar documentos.",
+        "B": "Solo para enviar correos electrónicos.",
+        "C": "Solo para hacer videollamadas.",
+        "D": "Netflix la utiliza para streaming de video."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 35,
+      "enunciado": "¿Cómo se puede aplicar el IoT en la agricultura?",
+      "opciones": {
+        "A": "Solo para regar los cultivos.",
+        "B": "Solo para cosechar los cultivos.",
+        "C": "Solo para vender los cultivos.",
+        "D": "Utilizando sensores en los cultivos para la agricultura de precisión."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 36,
+      "enunciado": "¿Cómo se puede utilizar la inteligencia artificial en la atención al cliente?",
+      "opciones": {
+        "A": "Solo para enviar correos electrónicos.",
+        "B": "Solo para hacer llamadas telefónicas.",
+        "C": "Solo para enviar cartas.",
+        "D": "Mediante chatbots que interactúan con los clientes."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 37,
+      "enunciado": "¿Cómo se puede usar el Big Data para la toma de decisiones estratégicas?",
+      "opciones": {
+        "A": "Solo para almacenar datos de clientes.",
+        "B": "Solo para enviar publicidad a los clientes.",
+        "C": "Solo para gestionar las redes sociales.",
+        "D": "Las compañías de seguros lo usan para analizar grandes cantidades de datos para evaluar riesgos."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 38,
+      "enunciado": "¿Cómo puede la digitalización ayudar a las empresas a reducir costes operativos?",
+      "opciones": {
+        "A": "Solo contratando más empleados.",
+        "B": "Solo comprando más ordenadores.",
+        "C": "Solo aumentando el precio de los productos.",
+        "D": "Automatizando procesos y optimizando la cadena de suministro."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 39,
+      "enunciado": "¿Cómo puede la digitalización aumentar la eficiencia de los procesos?",
+      "opciones": {
+        "A": "Solo contratando más empleados.",
+        "B": "Solo comprando más ordenadores.",
+        "C": "Solo aumentando el precio de los productos.",
+        "D": "Automatizando tareas repetitivas y mejorando la toma de decisiones."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 40,
+      "enunciado": "¿Cómo puede la digitalización mejorar la experiencia del cliente?",
+      "opciones": {
+        "A": "Solo enviando publicidad a los clientes.",
+        "B": "Solo ofreciendo descuentos a los clientes.",
+        "C": "Solo aumentando el precio de los productos.",
+        "D": "Personalizando productos y servicios y ofreciendo una atención al cliente más rápida y eficiente."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 41,
+      "enunciado": "¿Cuál es una implicación ética importante de la digitalización?",
+      "opciones": {
+        "A": "Solo la velocidad de internet.",
+        "B": "Solo el precio de los productos.",
+        "C": "Solo el diseño de las páginas web.",
+        "D": "La privacidad de los datos personales."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 42,
+      "enunciado": "¿Qué problema puede surgir con los algoritmos de IA?",
+      "opciones": {
+        "A": "Solo pueden ser muy lentos.",
+        "B": "Solo pueden ser muy caros.",
+        "C": "Solo pueden ser muy complejos.",
+        "D": "Pueden perpetuar sesgos y discriminaciones."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 43,
+      "enunciado": "¿Cuál es una posible consecuencia negativa de la automatización?",
+      "opciones": {
+        "A": "Solo el aumento de la productividad.",
+        "B": "Solo la mejora de la calidad de los productos.",
+        "C": "Solo la reducción de los costes.",
+        "D": "El desempleo."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 44,
+      "enunciado": "¿Cuál es una barrera para la adopción de la digitalización?",
+      "opciones": {
+        "A": "Solo la velocidad de internet.",
+        "B": "Solo el precio de los productos.",
+        "C": "Solo el diseño de las páginas web.",
+        "D": "Los costes de la inversión inicial."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 45,
+      "enunciado": "¿Qué es la nube pública?",
+      "opciones": {
+        "A": "Tú tienes el control total, desde los materiales hasta la distribución.",
+        "B": "Varios comparten los gastos y las tareas de mantenimiento.",
+        "C": "Combinación de nube privada y pública.",
+        "D": "Un proveedor de nube te da servidores, almacenamiento y software listos para usar."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 46,
+      "enunciado": "¿Qué es la nube privada?",
+      "opciones": {
+        "A": "Un proveedor de nube te da servidores, almacenamiento y software listos para usar.",
+        "B": "Varios comparten los gastos y las tareas de mantenimiento.",
+        "C": "Combinación de nube privada y pública.",
+        "D": "Tú tienes el control total, desde los materiales hasta la distribución."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 47,
+      "enunciado": "¿Qué es IaaS (Infraestructura como Servicio)?",
+      "opciones": {
+        "A": "Es como comprar un kit de construcción para armar tu casa.",
+        "B": "Es como alquilar un apartamento amueblado y listo para vivir.",
+        "C": "Ninguna de las anteriores.",
+        "D": "Es como alquilar un terreno y construir tu propia casa."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 48,
+      "enunciado": "¿Qué es PaaS (Plataforma como Servicio)?",
+      "opciones": {
+        "A": "Es como alquilar un terreno y construir tu propia casa.",
+        "B": "Es como alquilar un apartamento amueblado y listo para vivir.",
+        "C": "Ninguna de las anteriores.",
+        "D": "Es como comprar un kit de construcción para armar tu casa."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 49,
+      "enunciado": "¿Qué es SaaS (Software como Servicio)?",
+      "opciones": {
+        "A": "Es como comprar un kit de construcción para armar tu casa.",
+        "B": "Es como alquilar un terreno y construir tu propia casa.",
+        "C": "Ninguna de las anteriores.",
+        "D": "Es como alquilar un apartamento amueblado y listo para vivir."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero_pregunta": 50,
+      "enunciado": "¿En qué sector se pueden utilizar algoritmos de IA para analizar imágenes médicas?",
+      "opciones": {
+        "A": "Comercio electrónico",
+        "B": "Salud",
+        "C": "Turismo",
+        "D": "Agricultura"
+      },
+      "respuesta_correcta": "B"
+    }
+  ]
+}

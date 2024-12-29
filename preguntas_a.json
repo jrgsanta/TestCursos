@@ -1,0 +1,794 @@
+{
+    "Examen Crecimiento y Desarrollo": [
+      {
+        "numero_pregunta": 1,
+        "enunciado": "¿Qué es el crecimiento?",
+        "opciones": {
+          "a": "Proceso cuantitativo que implica un aumento en el número de células, afectando talla, peso, etc.",
+          "b": "Proceso cualitativo que se enfoca en el perfeccionamiento de las funciones del organismo.",
+          "c": "Conjunto de procesos que llevan a la aparición de conductas programadas biológicamente.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 2,
+        "enunciado": "¿Cuáles son las fases del periodo posnatal?",
+        "opciones": {
+          "a": "Neonatal, lactancia, escolar y madurez",
+          "b": "Neonatal, lactancia y madurez",
+          "c": "Neonatal, lactancia, infantil y escolar",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 3,
+        "enunciado": "¿Qué tipo de factor es la genética?",
+        "opciones": {
+          "a": "Prenatal",
+          "b": "Perinatal",
+          "c": "Posnatal",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 4,
+        "enunciado": "¿El meconio está compuesto por células vivas?",
+        "opciones": {
+          "a": "Verdadero",
+          "b": "Falso"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 5,
+        "enunciado": "¿Cómo se mide la talla de un niño menor de 2 años?",
+        "opciones": {
+          "a": "De pie, sosteniéndolo para mayor precisión.",
+          "b": "Con el niño estirado, obteniendo un valor de longitud.",
+          "c": "Midiendo los dedos del pie.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 6,
+        "enunciado": "¿Qué engloba el desarrollo?",
+        "opciones": {
+          "a": "Únicamente funciones psicológicas y afectivas.",
+          "b": "Funciones motóricas, psicológicas, afectivas, sociales y sensoriales.",
+          "c": "Solo el aumento en talla y peso.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 7,
+        "enunciado": "¿La maduración depende de la edad cronológica?",
+        "opciones": {
+          "a": "Verdadero",
+          "b": "Falso"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 8,
+        "enunciado": "Alrededor de qué edad tienen los niños los 20 dientes de leche:",
+        "opciones": {
+          "a": "En torno al primer año de vida",
+          "b": "En torno a los dos y tres años de vida",
+          "c": "En torno a los dos años",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 9,
+        "enunciado": "¿Qué desencadena el reflejo de succión?",
+        "opciones": {
+          "a": "Un objeto alrededor de los pies.",
+          "b": "Un objeto alrededor de las manos.",
+          "c": "Un objeto alrededor de los labios.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 10,
+        "enunciado": "¿Cuándo se presenta el reflejo de Babinski?",
+        "opciones": {
+          "a": "Al frotar la palma de la mano del bebé.",
+          "b": "Al frotar la parte superior del tronco del bebé.",
+          "c": "Al frotar la planta del pie del bebé.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 11,
+        "enunciado": "Fiebre alta, inflamación de garganta y ganglios inflamados, ¿a qué enfermedad pueden estar asociados?",
+        "opciones": {
+          "a": "Escarlatina",
+          "b": "Rubeola",
+          "c": "Meningitis",
+          "d": "Tosferina"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 12,
+        "enunciado": "¿Cuál de estas NO es una característica de una dieta equilibrada?",
+        "opciones": {
+          "a": "Variedad y cantidad adecuada de nutrientes.",
+          "b": "Mucha cantidad de alimentos.",
+          "c": "El agua en su justa medida.",
+          "d": "Fibra dietética necesaria."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 13,
+        "enunciado": "¿Qué es la pirámide alimenticia?",
+        "opciones": {
+          "a": "Una guía de comida saludable.",
+          "b": "Representación gráfica de la cantidad de alimentos según la estatura.",
+          "c": "Representación gráfica de las raciones de alimentos recomendadas.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 14,
+        "enunciado": "Los dos tipos de proteínas son:",
+        "opciones": {
+          "a": "Vegetales y biológicas.",
+          "b": "Vegetales y animales.",
+          "c": "Vegetales y genéticas.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 15,
+        "enunciado": "¿Qué función NO cumplen los minerales?",
+        "opciones": {
+          "a": "Regeneradoras.",
+          "b": "Reguladoras.",
+          "c": "Saciantes.",
+          "d": "Plásticas."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 16,
+        "enunciado": "¿Cuál de estas NO es una característica de los lípidos?",
+        "opciones": {
+          "a": "Son insolubles en agua.",
+          "b": "Son una reserva de energía.",
+          "c": "Forman el tejido protéico.",
+          "d": "Forman el tejido adiposo."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 17,
+        "enunciado": "¿A qué se refiere la zona de desarrollo real de Vygotski?",
+        "opciones": {
+          "a": "Actividades que se pueden hacer sin ayuda.",
+          "b": "Actividades que se pueden hacer con ayuda de un progenitor.",
+          "c": "Actividades que se realizan involuntariamente.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 18,
+        "enunciado": "¿Cuál es el problema de sueño más común en niños?",
+        "opciones": {
+          "a": "Terrores nocturnos.",
+          "b": "No poder conciliar el sueño al quedarse solos.",
+          "c": "Tener pesadillas.",
+          "d": "Despertarse durante la noche."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 19,
+        "enunciado": "Entre 1 y 3 años, ¿de qué es capaz un niño en cuanto a relaciones sociales?",
+        "opciones": {
+          "a": "Responder y llamar a otros.",
+          "b": "Aprender nombres de niños y adultos.",
+          "c": "Respetar normas.",
+          "d": "Colaborar para solucionar problemas.",
+          "e": "Todas las anteriores son correctas."
+        },
+        "respuesta_correcta": "e"
+      },
+      {
+        "numero_pregunta": 20,
+        "enunciado": "¿Cuál de estas NO es una actitud básica de un educador?",
+        "opciones": {
+          "a": "Respeto.",
+          "b": "Intolerancia.",
+          "c": "Objetividad.",
+          "d": "Dinamismo."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 21,
+        "enunciado": "¿Qué es el desarrollo?",
+        "opciones": {
+          "a": "Un proceso cuantitativo.",
+          "b": "Un proceso cualitativo.",
+          "c": "Dependiente de la edad cronológica.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 22,
+        "enunciado": "¿Qué NO es un factor prenatal?",
+        "opciones": {
+          "a": "Genéticos.",
+          "b": "Hormonales.",
+          "c": "Circunstanciales.",
+          "d": "Maduración."
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 23,
+        "enunciado": "¿Qué son los percentiles de crecimiento?",
+        "opciones": {
+          "a": "La edad en la que los niños alcanzan cierto peso.",
+          "b": "Tablas que valoran el desarrollo de los niños según valores de referencia.",
+          "c": "El número de células que un niño gana al mes.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 24,
+        "enunciado": "¿Qué es el meconio?",
+        "opciones": {
+          "a": "Células vivas que revisten los pulmones del recién nacido.",
+          "b": "Células muertas y secreciones que revisten el intestino del recién nacido.",
+          "c": "Un tipo de leche materna.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 25,
+        "enunciado": "¿Cuál es la longitud promedio de un neonato?",
+        "opciones": {
+          "a": "30-35 cm.",
+          "b": "30,5-33 cm.",
+          "c": "48-53 cm.",
+          "d": "2,700-4 kg."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 26,
+        "enunciado": "¿De qué depende la maduración?",
+        "opciones": {
+          "a": "De la edad cronológica.",
+          "b": "De factores intrínsecos como el código genético.",
+          "c": "Del entorno en el que crece el niño.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 27,
+        "enunciado": "¿Cuándo se desarrollan los primeros esbozos internos de los dientes de leche?",
+        "opciones": {
+          "a": "A los 4 meses de embarazo.",
+          "b": "Entre las 6 y 8 semanas tras el parto.",
+          "c": "A los 2-3 años.",
+          "d": "A los 6-8 años."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 28,
+        "enunciado": "¿Qué NO se recomienda para aliviar el dolor de la dentición?",
+        "opciones": {
+          "a": "Gel sin azúcar para las encías.",
+          "b": "Frotar las encías con un trozo de hielo.",
+          "c": "Darle al bebé alimentos duros para morder.",
+          "d": "Darle al bebé caramelos para que los chupe."
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 29,
+        "enunciado": "¿Qué reflejo se presenta al acariciar la mejilla del bebé?",
+        "opciones": {
+          "a": "Reflejo de búsqueda.",
+          "b": "Reflejo de succión.",
+          "c": "Reflejo de deglución.",
+          "d": "Reflejo de Galant."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 30,
+        "enunciado": "¿Hasta qué edad es normal el reflejo de Babinski?",
+        "opciones": {
+          "a": "6 meses.",
+          "b": "1 año.",
+          "c": "2 años.",
+          "d": "3 años."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 31,
+        "enunciado": "¿Qué trastorno del crecimiento se caracteriza por un exceso de secreción de la hormona del crecimiento?",
+        "opciones": {
+          "a": "Acromegalia.",
+          "b": "Déficit de hormona de crecimiento.",
+          "c": "Diabetes mellitus.",
+          "d": "Hipotiroidismo."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 32,
+        "enunciado": "¿Qué trastorno alimenticio implica la ingesta de sustancias no nutritivas?",
+        "opciones": {
+          "a": "Anorexia.",
+          "b": "Enflaquecimiento.",
+          "c": "Obesidad.",
+          "d": "Pica."
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 33,
+        "enunciado": "¿Qué enfermedad se caracteriza por la inflamación de las meninges?",
+        "opciones": {
+          "a": "Meningitis.",
+          "b": "Tosferina.",
+          "c": "Escarlatina.",
+          "d": "Difteria."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 34,
+        "enunciado": "¿Cuál es el síntoma típico de la tosferina?",
+        "opciones": {
+          "a": "Fiebre alta.",
+          "b": "Erupciones cutáneas.",
+          "c": "Tos en accesos o paroxismos.",
+          "d": "Dolor de garganta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 35,
+        "enunciado": "¿Qué enfermedad se caracteriza por fiebre alta, inflamación de garganta y ganglios inflamados?",
+        "opciones": {
+          "a": "Meningitis.",
+          "b": "Tosferina.",
+          "c": "Escarlatina.",
+          "d": "Difteria."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 36,
+        "enunciado": "¿Qué bacteria causa la difteria?",
+        "opciones": {
+          "a": "Streptococcus pyogenes.",
+          "b": "Clostridium tetani.",
+          "c": "Corynebacterium diphtheriae.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 37,
+        "enunciado": "¿Qué tipo de factor es la alimentación?",
+        "opciones": {
+          "a": "Endógeno.",
+          "b": "Exógeno.",
+          "c": "Genético.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 38,
+        "enunciado": "¿Qué es la alimentación?",
+        "opciones": {
+          "a": "Un acto involuntario e inconsciente.",
+          "b": "Un acto voluntario y consciente.",
+          "c": "El proceso de transformación de los alimentos.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 39,
+        "enunciado": "¿Qué es la nutrición?",
+        "opciones": {
+          "a": "Un acto voluntario y consciente.",
+          "b": "Un acto involuntario e inconsciente.",
+          "c": "La selección de alimentos que ingerimos.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 40,
+        "enunciado": "¿Cuál de estas NO es una característica de una dieta equilibrada?",
+        "opciones": {
+          "a": "Equilibrada.",
+          "b": "Completa.",
+          "c": "Rica en grasas.",
+          "d": "Variada."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 41,
+        "enunciado": "¿Cuál es el componente más abundante en el cuerpo humano?",
+        "opciones": {
+          "a": "Agua.",
+          "b": "Proteína.",
+          "c": "Lípidos.",
+          "d": "Minerales."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 42,
+        "enunciado": "¿Cuál es la función principal de los carbohidratos?",
+        "opciones": {
+          "a": "Construir y reparar tejidos.",
+          "b": "Regular procesos metabólicos.",
+          "c": "Proporcionar energía a las células.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 43,
+        "enunciado": "¿Qué tipo de proteínas tienen mayor poder nutritivo?",
+        "opciones": {
+          "a": "Vegetales.",
+          "b": "Animales.",
+          "c": "Genéticas.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 44,
+        "enunciado": "¿Qué tipo de vitaminas necesita el organismo tomar con regularidad?",
+        "opciones": {
+          "a": "Hidrosolubles.",
+          "b": "Liposolubles.",
+          "c": "Todas las vitaminas.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 45,
+        "enunciado": "¿Qué mineral previene la caries?",
+        "opciones": {
+          "a": "Calcio.",
+          "b": "Hierro.",
+          "c": "Flúor.",
+          "d": "Yodo."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 46,
+        "enunciado": "¿Cuál es la función de los lípidos?",
+        "opciones": {
+          "a": "Formar tejido muscular.",
+          "b": "Regular procesos metabólicos.",
+          "c": "Almacenarse como reserva de energía.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 47,
+        "enunciado": "¿Qué porcentaje del peso corporal del adulto es agua?",
+        "opciones": {
+          "a": "10%.",
+          "b": "25%.",
+          "c": "Más del 50%.",
+          "d": "90%."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 48,
+        "enunciado": "¿En qué etapa de la alimentación infantil se introducen alimentos adicionales?",
+        "opciones": {
+          "a": "Etapa láctea.",
+          "b": "Etapa de transición o alimentación complementaria.",
+          "c": "Etapa de 1-3 años.",
+          "d": "Etapa de 3-6 años."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 49,
+        "enunciado": "¿Qué alimento NO forma parte de un desayuno equilibrado para niños?",
+        "opciones": {
+          "a": "Leche.",
+          "b": "Cereales.",
+          "c": "Galletas.",
+          "d": "Bollería industrial."
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 50,
+        "enunciado": "¿Cuál de estas NO es una función del comedor escolar?",
+        "opciones": {
+          "a": "Proporcionar una alimentación de calidad.",
+          "b": "Ser un recurso didáctico para la educación para la salud.",
+          "c": "Servir únicamente alimentos que los niños prefieran.",
+          "d": "Contribuir al multiculturalismo."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 51,
+        "enunciado": "¿Qué es una alergia alimentaria?",
+        "opciones": {
+          "a": "Reacción adversa sin causa inmunológica.",
+          "b": "Incapacidad para digerir un alimento.",
+          "c": "Reacción adversa con causa inmunológica comprobada.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 52,
+        "enunciado": "¿Qué es una intolerancia alimentaria?",
+        "opciones": {
+          "a": "Reacción adversa con causa inmunológica.",
+          "b": "Incapacidad para digerir un alimento sin intervención del sistema inmune.",
+          "c": "Reacción adversa a un medicamento.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 53,
+        "enunciado": "¿Cuál es la actividad de reposo por excelencia?",
+        "opciones": {
+          "a": "Jugar.",
+          "b": "Leer.",
+          "c": "Dormir.",
+          "d": "Comer."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 54,
+        "enunciado": "¿En qué fase del sueño se producen las pesadillas?",
+        "opciones": {
+          "a": "Fase I del sueño lento.",
+          "b": "Fase IV del sueño lento.",
+          "c": "Sueño REM.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 55,
+        "enunciado": "¿Qué NO es un indicador de mal sueño en un niño?",
+        "opciones": {
+          "a": "Dormirse en clase.",
+          "b": "Despertarse descansado.",
+          "c": "Dificultad para despertar.",
+          "d": "Somnolencia diurna."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 56,
+        "enunciado": "¿Cuántas horas debe dormir un recién nacido?",
+        "opciones": {
+          "a": "10-12 horas.",
+          "b": "12-13 horas.",
+          "c": "14-15 horas.",
+          "d": "16-20 horas."
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "numero_pregunta": 57,
+        "enunciado": "¿Qué NO debe hacer un educador ante un niño con problemas de sueño?",
+        "opciones": {
+          "a": "Vigilar posibles alteraciones como miedos o pesadillas.",
+          "b": "Favorecer un despertar tranquilo.",
+          "c": "Ignorar sus costumbres y obligarlo a adaptarse.",
+          "d": "Diseñar rutinas para el descanso."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 58,
+        "enunciado": "¿Qué trastorno del sueño se caracteriza por hablar dormido?",
+        "opciones": {
+          "a": "Pesadillas.",
+          "b": "Sonambulismo.",
+          "c": "Somniloquia.",
+          "d": "Terrores nocturnos."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 59,
+        "enunciado": "¿Qué es el síndrome de muerte súbita del lactante?",
+        "opciones": {
+          "a": "Una enfermedad contagiosa.",
+          "b": "Muerte repentina e inexplicable de un bebé menor de un año.",
+          "c": "Un tipo de alergia alimentaria.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 60,
+        "enunciado": "¿Qué NO es una recomendación para prevenir el síndrome de muerte súbita del lactante?",
+        "opciones": {
+          "a": "Tumbar al bebé boca arriba.",
+          "b": "Dar el pecho al bebé.",
+          "c": "Dormir al bebé boca abajo.",
+          "d": "Evitar objetos blandos en la cara del bebé."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 61,
+        "enunciado": "¿Qué es la higiene?",
+        "opciones": {
+          "a": "El conjunto de hábitos para mantener la salud.",
+          "b": "La parte de la medicina que se encarga de la salud.",
+          "c": "El proceso de curación de enfermedades.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 62,
+        "enunciado": "¿En qué fase de la autonomía en la higiene el niño comienza a participar?",
+        "opciones": {
+          "a": "Fase pasiva.",
+          "b": "Fase de colaboración.",
+          "c": "Fase activa.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 63,
+        "enunciado": "¿Qué debe garantizar la higiene alimentaria?",
+        "opciones": {
+          "a": "Que los alimentos sean baratos.",
+          "b": "Que los alimentos sean de origen local.",
+          "c": "Que los alimentos sean inocuos y no causen daño.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 64,
+        "enunciado": "¿Qué NO es un requisito para los manipuladores de alimentos?",
+        "opciones": {
+          "a": "Recibir formación en higiene alimentaria.",
+          "b": "Cumplir las normas de higiene personal.",
+          "c": "Probar todos los alimentos antes de servirlos.",
+          "d": "Garantizar la seguridad de los alimentos."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 65,
+        "enunciado": "¿De qué material deben ser las tablas para cortar alimentos?",
+        "opciones": {
+          "a": "Madera.",
+          "b": "Vidrio.",
+          "c": "Poliuretano.",
+          "d": "Metal."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 66,
+        "enunciado": "¿Qué se debe evitar al almacenar alimentos?",
+        "opciones": {
+          "a": "Guardar juntos productos crudos y cocinados.",
+          "b": "Conservar los productos en sus envases originales.",
+          "c": "Almacenar los productos a la temperatura adecuada.",
+          "d": "Utilizar los productos dentro de su fecha de caducidad."
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "numero_pregunta": 67,
+        "enunciado": "¿Qué NO es un aspecto importante de la higiene ambiental en la escuela?",
+        "opciones": {
+          "a": "Limpieza del aula y mobiliario.",
+          "b": "Utilizar productos de limpieza al alcance de los niños.",
+          "c": "Ventilación e iluminación adecuadas.",
+          "d": "Temperatura adecuada."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 68,
+        "enunciado": "¿Qué es fundamental en la higiene del bebé?",
+        "opciones": {
+          "a": "Utilizar productos perfumados.",
+          "b": "Bañar al bebé con agua muy caliente.",
+          "c": "Lavarse las manos antes de cualquier actuación.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "numero_pregunta": 69,
+        "enunciado": "¿Qué se debe hacer con el cordón umbilical hasta que se seque y caiga?",
+        "opciones": {
+          "a": "Bañar al bebé con normalidad.",
+          "b": "Limpiar el resto del cuerpo con una esponja húmeda.",
+          "c": "Aplicar alcohol en la zona varias veces al día.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 70,
+        "enunciado": "¿Cómo se limpian los ojos del bebé?",
+        "opciones": {
+          "a": "De afuera hacia adentro.",
+          "b": "De adentro hacia afuera.",
+          "c": "Con la misma gasa que se limpia la nariz.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 71,
+        "enunciado": "¿Qué se debe evitar para prevenir la caries del biberón?",
+        "opciones": {
+          "a": "Limpiar la boca del bebé después de cada comida.",
+          "b": "Dormir al bebé con el biberón.",
+          "c": "Utilizar una gasa húmeda para limpiar la boca.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "numero_pregunta": 72,
+        "enunciado": "¿Cómo se deben cortar las uñas del bebé?",
+        "opciones": {
+          "a": "Siguiendo la línea natural de la uña.",
+          "b": "Cortando las uñas muy cortas.",
+          "c": "Utilizando las mismas tijeras que para los adultos.",
+          "d": "Ninguna de las anteriores es correcta."
+        },
+        "respuesta_correcta": "a"
+      }
+    ]
+  }
+  
